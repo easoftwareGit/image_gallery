@@ -1,0 +1,39 @@
+after craete-next-app
+https://youtu.be/fqfer6xMp2A?t=1216
+
+custom 404 error page
+https://youtu.be/fqfer6xMp2A?t=1895
+
+customs loading page
+https://youtu.be/fqfer6xMp2A?t=1984
+
+custom error page
+https://youtu.be/fqfer6xMp2A?t=2317
+
+bootstrap setup / problems
+https://youtu.be/fqfer6xMp2A?t=2572
+
+create Navbar
+https://youtu.be/fqfer6xMp2A?t=3216
+
+caching stratagies 
+https://youtu.be/fqfer6xMp2A?t=3950
+
+dynamic rendering
+https://youtu.be/fqfer6xMp2A?t=5403
+
+incremental static regeneration
+https://youtu.be/fqfer6xMp2A?t=5892
+
+dynamic urls
+https://youtu.be/fqfer6xMp2A?t=6095
+
+get metadata from fetch response
+https://youtu.be/fqfer6xMp2A?t=7232
+
+client side data fetching
+https://youtu.be/fqfer6xMp2A?t=8027
+https://youtu.be/fqfer6xMp2A?t=9312
+
+deploy
+https://youtu.be/fqfer6xMp2A?t=9882
